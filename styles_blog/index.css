@@ -82,3 +82,16 @@ border: 2px solid black;
     width: fit-content;
     box-shadow:black 20px 20px 5;
 }
+
+
+.form{
+   margin: 10px 50px 10px 50px;
+   
+}
+.basic label{
+    display: block;
+  
+}
+.basic input {
+  margin-bottom: 12px;
+}
