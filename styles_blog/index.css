@@ -95,3 +95,31 @@ border: 2px solid black;
 .basic input {
   margin-bottom: 12px;
 }
+button{
+    margin: 10px 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    
+}
+.parent div{
+    border-radius: 50px;
+    align-content: center;
+    text-align: center;
+    height: 300px;
+    box-shadow: rgb(153, 197, 255) 10px 10px 3em 1rem;
+    width: 900px;
+}
+#button{
+    padding: 10px 50px;
+    border-radius: 50PX;
+}
+#button:hover{
+    background-color: bisque;
+}
